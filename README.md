@@ -4,6 +4,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![AI Prompting](https://img.shields.io/badge/-AI%20Prompting-412991?style=flat&logo=openai&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
+
 ![Hearthstone](https://img.shields.io/badge/-Hearthstone-0C2C56?style=flat&logo=Battle.net&logoColor=white)
 ![Counter-Strike 2](https://img.shields.io/badge/-Counter--Strike%202-FA9C1C?style=flat&logo=counter-strike&logoColor=white)
 
