@@ -7,7 +7,8 @@
 ![Counter-Strike 2](https://img.shields.io/badge/-Counter--Strike%202-FA9C1C?style=flat&logo=counter-strike&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1lNo1ses&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1lNo1ses&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 ## 📞 **Elérhetőség**  
 [![Discord](https://img.shields.io/badge/Discord-@gamercsavoboldogboldogsag-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1190710992410251270)
 <!--
