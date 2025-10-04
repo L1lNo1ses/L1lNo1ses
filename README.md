@@ -1,8 +1,7 @@
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
-
-
-
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat&logo=windows&logoColor=white)
+[ArkOS](https://img.shields.io/badge/-TiborX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 
 ![RetroArch](https://img.shields.io/badge/-RetroArch-000000?style=flat&logo=retroarch&logoColor=white)
 ![Kodi](https://img.shields.io/badge/-Kodi-17A2D2?style=flat&logo=kodi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AI Prompting](https://img.shields.io/badge/-AI%20Prompting-412991?style=flat&logo=openai&logoColor=white) ![Jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=flat&logo=jellyfin&logoColor=white)![Hearthstone](https://img.shields.io/badge/-Hearthstone-0C2C56?style=flat&logo=Battle.net&logoColor=white)
@@ -22,7 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![TiborX](https://img.shields.io/badge/-TiborX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+- ⚡ Fun 
