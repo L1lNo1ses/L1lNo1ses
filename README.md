@@ -1,7 +1,6 @@
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos&logoColor=white)
 
-![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat&logo=windows&logoColor=white)
-white)
+
 
 ![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat&logo=windows&logoColor=white)
 
@@ -25,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![TiborX](https://img.shields.io/badge/-TiborX-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
